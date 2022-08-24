@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.naman14:app-theme-engine:0.5.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-app-theme-engine-0.5.2.aar/7ed6771260ce98f0692af6a3ee23bb0f/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-app-theme-engine-0.5.2.aar/7ed6771260ce98f0692af6a3ee23bb0f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-app-theme-engine-0.5.2.aar/7ed6771260ce98f0692af6a3ee23bb0f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-app-theme-engine-0.5.2.aar/7ed6771260ce98f0692af6a3ee23bb0f/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
